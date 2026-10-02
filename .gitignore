@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Large/raw data files
+data/raw/*.xlsx
+data/raw/*.zip
+
+# Large bioinformatics files
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.vcf.gz
+
+# OS files
+.DS_Store
+Thumbs.db
