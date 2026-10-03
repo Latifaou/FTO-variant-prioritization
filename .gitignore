@@ -16,3 +16,6 @@ data/raw/*.zip
 # OS files
 .DS_Store
 Thumbs.db
+
+# FUMA generated output files
+data/fuma/

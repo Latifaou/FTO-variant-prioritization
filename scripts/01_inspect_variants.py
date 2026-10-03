@@ -1,27 +1,4 @@
-import pandas as pd 
-df = pd.read_csv("../data/raw/fuma_input_snps.txt", sep="\t")
-print(df.head())
 
-
-import os
-os.chdir(r"C:\Users\pc\FTO-variant-prioritization")
-
-
-import pandas as pd
-
-df = pd.read_csv("data/raw/fuma_input_snps.txt", sep="\t")
-
-print(df.head())
-
-import pandas as pd
-
-# Save the cleaned dataset
-df.to_csv(
-    "data/processed/fuma_input_snps_clean.csv",
-    index=False
-)
-
-print("\nCleaned dataset saved successfully.")
 
 
 import pandas as pd
@@ -60,3 +37,5 @@ df.to_csv(
 )
 
 print("\nCleaned dataset saved successfully.")
+
+
