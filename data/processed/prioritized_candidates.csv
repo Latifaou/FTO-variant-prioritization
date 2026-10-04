@@ -1,0 +1,6 @@
+rsID,uniqID,gwasP,r2,IndSigSNP,is_independent_sig,CADD,RDB,eqtl_genes,eqtl_tissues,eqtl_min_FDR,ci_IRX3,ci_IRX5,E023_label,E025_label,E063_label
+rs77276051,16:53760912:A:C,,0.878592,rs16952479,False,17.82,2b,,,,True,True,Enhancer,Enhancer,Enhancer
+rs16952522,16:53807498:C:G,8e-22,1.0,rs16952522,True,17.38,2b,,,,True,True,Enhancer,Enhancer,Enhancer
+rs73612011,16:53809861:A:G,,0.6377,rs111357538,False,15.09,2a,,,,True,True,Flanking Active TSS,Enhancer,Enhancer
+rs3751812,16:53818460:G:T,6e-108,0.988995,rs7187250,False,15.74,3a,,,,True,True,Weak transcription,Weak transcription,Weak transcription
+rs7202116,16:53821615:A:G,,0.992694,rs7187250,False,16.13,2b,,,,True,True,Enhancer,Weak transcription,Weak transcription
