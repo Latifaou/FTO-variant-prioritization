@@ -108,7 +108,23 @@ a CADD score of 17.38, and a RegulomeDB category of 2b.
 Both rs16952522 and rs77276051 were annotated as enhancer-state variants
 across the three adipose-relevant epigenomic datasets examined in this
 workflow.
+## Results Visualizations
 
+### CADD scores of prioritized variants
+
+The five convergent regulatory candidates all exceeded the exploratory
+CADD threshold of 15. The figure below compares their CADD scores as one
+component of the prioritization framework.
+
+![CADD scores of prioritized FTO variants](results/cadd_prioritized_variants.png)
+
+### Integrated regulatory evidence
+
+The prioritized candidates were compared across independent GWAS signal
+status, RegulomeDB annotation, and ChromHMM states in adipose-relevant
+cell and tissue contexts.
+
+![Integrated regulatory evidence for prioritized FTO variants](results/integrated_evidence_matrix.png)
 ## Chromatin Interaction Context
 
 Chromatin-interaction mapping identified regions contacting IRX3 and IRX5.

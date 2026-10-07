@@ -1,2 +1,4 @@
-pandas
-matplotlib
+The workflow was developed using Python 3 and requires:
+
+- pandas
+- matplotlib
