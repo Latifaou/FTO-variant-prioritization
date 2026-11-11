@@ -1,0 +1,18 @@
+SNP_id,motif_transition,motif_models,unique_tf_labels,unique_seq_matches
+rs111357538,Both alleles match,4,4,4
+rs111357538,Potential creation,78,70,10
+rs111357538,Potential disruption,13,10,8
+rs1421085,Both alleles match,4,3,3
+rs1421085,Potential creation,21,19,8
+rs1421085,Potential disruption,10,10,5
+rs16952522,Both alleles match,1,1,1
+rs16952522,Potential creation,53,43,13
+rs16952522,Potential disruption,11,10,7
+rs4784323,Both alleles match,3,3,2
+rs4784323,Potential creation,26,22,8
+rs4784323,Potential disruption,14,14,8
+rs7187250,Both alleles match,3,3,3
+rs7187250,Potential creation,19,18,10
+rs7187250,Potential disruption,7,7,5
+rs8063946,Potential creation,4,4,4
+rs8063946,Potential disruption,14,14,7

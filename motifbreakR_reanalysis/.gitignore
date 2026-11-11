@@ -1,0 +1,11 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary files
+*.tmp
+*~
+.DS_Store
+Thumbs.db

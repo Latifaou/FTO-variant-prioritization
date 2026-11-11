@@ -1,0 +1,48 @@
+threshold,SNP_id,transition,n
+0.8,rs111357538,Both match,13
+0.8,rs111357538,Creation,116
+0.8,rs111357538,Disruption,16
+0.8,rs1421085,Both match,9
+0.8,rs1421085,Creation,46
+0.8,rs1421085,Disruption,12
+0.8,rs16952522,Both match,5
+0.8,rs16952522,Creation,85
+0.8,rs16952522,Disruption,23
+0.8,rs4784323,Both match,6
+0.8,rs4784323,Creation,64
+0.8,rs4784323,Disruption,36
+0.8,rs7187250,Both match,8
+0.8,rs7187250,Creation,28
+0.8,rs7187250,Disruption,16
+0.8,rs8063946,Creation,17
+0.8,rs8063946,Disruption,43
+0.85,rs111357538,Both match,4
+0.85,rs111357538,Creation,78
+0.85,rs111357538,Disruption,13
+0.85,rs1421085,Both match,4
+0.85,rs1421085,Creation,21
+0.85,rs1421085,Disruption,10
+0.85,rs16952522,Both match,1
+0.85,rs16952522,Creation,53
+0.85,rs16952522,Disruption,11
+0.85,rs4784323,Both match,3
+0.85,rs4784323,Creation,26
+0.85,rs4784323,Disruption,14
+0.85,rs7187250,Both match,3
+0.85,rs7187250,Creation,19
+0.85,rs7187250,Disruption,7
+0.85,rs8063946,Creation,4
+0.85,rs8063946,Disruption,14
+0.9,rs111357538,Creation,52
+0.9,rs111357538,Disruption,10
+0.9,rs1421085,Both match,1
+0.9,rs1421085,Creation,13
+0.9,rs1421085,Disruption,7
+0.9,rs16952522,Creation,24
+0.9,rs16952522,Disruption,4
+0.9,rs4784323,Creation,7
+0.9,rs4784323,Disruption,9
+0.9,rs7187250,Creation,13
+0.9,rs7187250,Disruption,3
+0.9,rs8063946,Creation,1
+0.9,rs8063946,Disruption,1

@@ -1,0 +1,7 @@
+FTO motifbreakR reproducibility verification
+Genome assembly: GRCh37/hg19
+Variants analyzed: 6
+Original predictions: 10655
+Regenerated predictions: 10655
+Exact object identity: FALSE
+Object equivalence (all.equal): TRUE
